@@ -216,7 +216,7 @@
 }
 
 .btn-view-all:hover {
-    background-color: var(--neon);
+    background-color: var(--neon) !important;
     color: #000000;
 }
 
